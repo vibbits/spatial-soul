@@ -1,4 +1,4 @@
-from soul.shell import commandline_exec
+from spatialsoul.shell import commandline_exec
 
 
 def call_headless_fiji(fiji_path, script_path, script_args):

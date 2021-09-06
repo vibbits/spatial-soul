@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="spatial-soul",
-    version="0.1.1",
+    version="0.1.2",
     description="Spatial -omics utilities library",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -15,6 +15,6 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
     ],
-    packages=["soul"],
+    packages=["spatialsoul"],
     install_requires=[],
 )
