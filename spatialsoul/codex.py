@@ -1,5 +1,6 @@
 import json
 import os
+from typing import Any
 
 
 # Default filename of the experiment metadata associated
